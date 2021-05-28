@@ -1,0 +1,16 @@
+C:\Users\carte\workspace\cc-lovecraft\bin\Debug\net5.0\cc-lovecraft.exe
+C:\Users\carte\workspace\cc-lovecraft\bin\Debug\net5.0\cc-lovecraft.deps.json
+C:\Users\carte\workspace\cc-lovecraft\bin\Debug\net5.0\cc-lovecraft.runtimeconfig.json
+C:\Users\carte\workspace\cc-lovecraft\bin\Debug\net5.0\cc-lovecraft.runtimeconfig.dev.json
+C:\Users\carte\workspace\cc-lovecraft\bin\Debug\net5.0\cc-lovecraft.dll
+C:\Users\carte\workspace\cc-lovecraft\bin\Debug\net5.0\ref\cc-lovecraft.dll
+C:\Users\carte\workspace\cc-lovecraft\bin\Debug\net5.0\cc-lovecraft.pdb
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\cc-lovecraft.csprojAssemblyReference.cache
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\cc-lovecraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\cc-lovecraft.AssemblyInfoInputs.cache
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\cc-lovecraft.AssemblyInfo.cs
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\cc-lovecraft.csproj.CoreCompileInputs.cache
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\cc-lovecraft.dll
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\ref\cc-lovecraft.dll
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\cc-lovecraft.pdb
+C:\Users\carte\workspace\cc-lovecraft\obj\Debug\net5.0\cc-lovecraft.genruntimeconfig.cache
